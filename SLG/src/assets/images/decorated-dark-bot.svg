@@ -1,0 +1,12 @@
+<svg width="1920" height="102" viewBox="0 0 1920 102" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path d="M0 100H1920V-4.76837e-06C1761.5 -4.76837e-06 1510 100 960 100C410 100 164.5 -4.76837e-06 0 -4.76837e-06V100Z" fill="#202020" fill-opacity="0.2"/>
+<path d="M0 100H1920V10C1761.5 10 1510 100 960 100C410 100 164.5 10 0 10V100Z" fill="#202020" fill-opacity="0.2"/>
+<path d="M1920 102V20C1761.5 20 1510 100 960 100C410 100 164.5 20 0 20V102H1920Z" fill="#202020"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="1920" height="102" fill="white" transform="matrix(1 0 0 -1 0 102)"/>
+</clipPath>
+</defs>
+</svg>

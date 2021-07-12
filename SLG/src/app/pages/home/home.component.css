@@ -1,0 +1,24 @@
+.m-w-f-70 {
+    max-width: 70%;
+}
+
+.m-w-f-60 {
+    max-width: 60%;
+}
+
+.navbar-fixed-top {
+    position:fixed !important;
+    top: 0;
+}
+
+#map {
+    width: 100%!important;
+    height: 570px!important;
+    background-color: #f6f6f3;
+}
+
+@media screen and (max-width: 767px) {
+    .m-w-f-70, .m-w-f-60 {
+        max-width: 100%;
+    }
+}
